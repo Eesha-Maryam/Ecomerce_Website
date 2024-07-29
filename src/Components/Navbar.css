@@ -1,0 +1,31 @@
+
+#navbar{
+    background-color: #ff9300;
+   padding:1px;
+    transition: background-color 0.3s ease;
+  }
+  
+  #navbar ul li{
+    padding:5px;
+    display:inline-block;
+    list-style: none;
+    margin-left:8px;
+    padding: 6px 8px; 
+    transition: color 0.3s ease; 
+  }
+  
+  #navbar ul li a{
+    color:white;
+    font-weight:bold;
+    font-size:larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:none;
+  }
+  
+  #page-link {
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+  }
